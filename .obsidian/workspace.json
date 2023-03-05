@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "ec7ed9849dfb5161",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b05970089d1a959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a29d32b997d8fc77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI711/content/main_content.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d2b0bfe40cd5997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPSCI732/content/Download.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68d61bf4cd9a442b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a7c5b2faba522dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2414e10e136b9874",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5af88dfe9dc5a2c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "653936b6cc37ebc9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c949f35cb937221e",
+    "type": "split",
+    "children": [
+      {
+        "id": "46275dfc1feac022",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caec81c1a80399da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COMPSCI732/content/Download.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac16be609740a9aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "COMPSCI732/content/Download.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be3c2d4b5fea1a73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b20191cf45fe2e09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "COMPSCI732/content/Download.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6d2b0bfe40cd5997",
+  "lastOpenFiles": [
+    "COMPSCI732/source/Download_node/P6.png",
+    "COMPSCI732/source/Download_node/P4.png",
+    "COMPSCI711/content/main_content.md",
+    "COMPSCI732/source/Download_node/P3.png",
+    "Pasted image 20230306054747.png",
+    "COMPSCI732/source/Download_node/P2.png",
+    "COMPSCI732/content/732.md",
+    "COMPSCI732/content/Download.md",
+    "COMPSCI711/source/week1/P1.png",
+    "COMPSCI732/source/Download_node/P1.png",
+    "COMPSCI732/source/Download_node",
+    "COMPSCI732/source/新建文件夹",
+    "COMPSCI732/source",
+    "COMPSCI732/content",
+    "COMPSCI732",
+    "COMPSCI711/source/week1/P2.png",
+    "COMPSCI711/content",
+    "source/P1.png.md",
+    "source",
+    "COMPSCI711/source/week1",
+    "COMPSCI711/source",
+    "COMPSCI711",
+    "help.md"
+  ]
+}
