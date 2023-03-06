@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c949f35cb937221e",
@@ -161,6 +162,8 @@
   },
   "active": "6d2b0bfe40cd5997",
   "lastOpenFiles": [
+    "COMPSCI732/source/Week1/P6.png",
+    "COMPSCI732/source/Week1/P5.png",
     "COMPSCI732/source/Week1/P4.png",
     "COMPSCI732/source/Week1/P3.png",
     "COMPSCI711/content/main_content.md",
@@ -174,8 +177,6 @@
     "COMPSCI732/source/Download_node/P3.png",
     "Pasted image 20230306054747.png",
     "COMPSCI732/source/Download_node/P2.png",
-    "COMPSCI711/source/week1/P1.png",
-    "COMPSCI732/source/Download_node/P1.png",
     "COMPSCI732/source/Download_node",
     "COMPSCI732/source/新建文件夹",
     "COMPSCI732/source",
