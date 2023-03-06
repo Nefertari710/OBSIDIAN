@@ -26,3 +26,4 @@
 	npx babel --watch src --out-dir ./inbox --presets react-app/prod
 	``` 
 	- P4 ![](../source/Week1/P4.png)
+5. Have your HTML file reference and generated file in a \<script\>
