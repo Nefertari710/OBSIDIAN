@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPSCI732/content/Download1daskdhak.md",
+                "file": "COMPSCI732/content/Note-take.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPSCI732/content/Download1daskdhak.md",
+                "file": "COMPSCI732/content/Note-take.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPSCI732/content/Download1daskdhak.md",
+                "file": "COMPSCI732/content/Note-take.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMPSCI732/content/Download1daskdhak.md"
+                "file": "COMPSCI732/content/Note-take.md"
               }
             }
           }
@@ -161,14 +161,19 @@
   },
   "active": "6d2b0bfe40cd5997",
   "lastOpenFiles": [
+    "COMPSCI732/source/Week1/P4.png",
+    "COMPSCI732/source/Week1/P3.png",
+    "COMPSCI711/content/main_content.md",
+    "COMPSCI732/content/Note-take.md",
+    "COMPSCI732/source/Week1/P2.png",
+    "COMPSCI732/source/Week1/P1.png",
+    "COMPSCI732/source/Week1",
+    "COMPSCI732/content/Download.md",
     "COMPSCI732/source/Download_node/P6.png",
     "COMPSCI732/source/Download_node/P4.png",
-    "COMPSCI711/content/main_content.md",
     "COMPSCI732/source/Download_node/P3.png",
     "Pasted image 20230306054747.png",
     "COMPSCI732/source/Download_node/P2.png",
-    "COMPSCI732/content/732.md",
-    "COMPSCI732/content/Download1daskdhak.md",
     "COMPSCI711/source/week1/P1.png",
     "COMPSCI732/source/Download_node/P1.png",
     "COMPSCI732/source/Download_node",
@@ -176,13 +181,11 @@
     "COMPSCI732/source",
     "COMPSCI732/content",
     "COMPSCI732",
-    "COMPSCI711/source/week1/P2.png",
     "COMPSCI711/content",
     "source/P1.png.md",
     "source",
     "COMPSCI711/source/week1",
     "COMPSCI711/source",
-    "COMPSCI711",
     "help.md"
   ]
 }

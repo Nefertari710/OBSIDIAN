@@ -7,3 +7,4 @@
 3. Choose your own directory (P4)![](../source/Download_node/P4.png)
 4. Choose Add to Path (P5)![](../source/Download_node/P5.png)
 5. Finish install (P6) ![](../source/Download_node/P6.png)
+[[Note-take]]
